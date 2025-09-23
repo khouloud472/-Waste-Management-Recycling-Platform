@@ -1,0 +1,2 @@
+EN : Design and implementation of a mobile and web platform for recycling management, enabling users to buy, sell, and search for recyclable items. The project also integrates a marketing strategy and a comparative analysis to optimize adoption and impact.
+FR : Conception et mise en œuvre d’une plateforme mobile et web dédiée à la gestion du recyclage, permettant l’achat, la vente et la recherche d’objets recyclables. Le projet intègre également une stratégie marketing ainsi qu’une analyse comparative pour maximiser l’adoption et l’impact.
